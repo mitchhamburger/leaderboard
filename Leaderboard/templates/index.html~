@@ -21,7 +21,6 @@
       <div class="col-md-7">
         <h1>You are currently logged in is {{ user }}</h1>
         <h2>Sub title</h2>
-	<h3> WHATUP ZACK</h3>
       </div>
       <div class="col-md-3"></div>
   </div>
